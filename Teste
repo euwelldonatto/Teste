@@ -6,4 +6,4 @@ int main (void)
     int nota2 = 90;
     int nota3 = 30;
     printf {"Média: %f \n",  (nota1 + nota2 + nota3) / 3.0);
-    
+    }
