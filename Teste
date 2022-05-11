@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main (void)
+{
+    int nota1 = 100;
+    int nota2 = 90;
+    int nota3 = 30;
+    printf {"Média: %f \n",  (nota1 + nota2 + nota3) / 3.0);
+    
